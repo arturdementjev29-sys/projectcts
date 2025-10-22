@@ -1,9 +1,9 @@
 public class PrinterApp {
     public static void main(String[] args) {
 
-        String creator = "Nikita";
-        int number1 = 20;
-        int number2 = 3;
+        String creator = "Artur";
+        int number1 = 100;
+        int number2 = 4;
         int multiplication;
         int addition;
         int division;
